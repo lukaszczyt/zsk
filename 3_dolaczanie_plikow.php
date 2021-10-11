@@ -16,7 +16,7 @@
 
     //dla obu once nie powtarza ponownego załączenia pliku
     // require_once
-     ?>
+    ?>
     <h3>Koniec pliku</h3>
   </body>
 </html>
