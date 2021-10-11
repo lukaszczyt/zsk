@@ -28,6 +28,6 @@
       echo "Średni wiek rodziny to ",number_format($sum/count($_POST), 2);
       echo "<hr><a href='./zad_sredni_wiek.php'>Powrót</a>";
     }
-     ?>
+    ?>
   </body>
 </html>
